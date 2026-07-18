@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Download Organizer – Smart Library
 
 **Automatically organize your downloads into a clean, searchable Smart Library.**
@@ -201,3 +202,7 @@ Contributions, suggestions, and bug reports are welcome. Feel free to open an is
 # 📄 License
 
 This project is licensed under the MIT License.
+=======
+# Download-Organizer---Smart-Library
+Automatically organizes downloads into a structured Smart Library with real-time monitoring.
+>>>>>>> 5396c4a12cb52773acc706c3c89f84812a88fd9f
